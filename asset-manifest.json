@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortFolioRaghav-react/static/css/main.d2748f9d.css",
-    "main.js": "/PortFolioRaghav-react/static/js/main.87f412d3.js",
+    "main.js": "/PortFolioRaghav-react/static/js/main.c44ffa23.js",
     "static/js/415.4d6acbeb.chunk.js": "/PortFolioRaghav-react/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortFolioRaghav-react/static/js/787.1ed0c42c.chunk.js",
     "static/media/house.jpeg": "/PortFolioRaghav-react/static/media/house.c48d619385af7edc7c81.jpeg",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/PortFolioRaghav-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/PortFolioRaghav-react/index.html",
     "main.d2748f9d.css.map": "/PortFolioRaghav-react/static/css/main.d2748f9d.css.map",
-    "main.87f412d3.js.map": "/PortFolioRaghav-react/static/js/main.87f412d3.js.map",
+    "main.c44ffa23.js.map": "/PortFolioRaghav-react/static/js/main.c44ffa23.js.map",
     "415.4d6acbeb.chunk.js.map": "/PortFolioRaghav-react/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortFolioRaghav-react/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2748f9d.css",
-    "static/js/main.87f412d3.js"
+    "static/js/main.c44ffa23.js"
   ]
 }
