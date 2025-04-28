@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortFolioRaghav-react/static/css/main.d2748f9d.css",
+    "main.js": "/PortFolioRaghav-react/static/js/main.87f412d3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortFolioRaghav-react/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortFolioRaghav-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/house.jpeg": "/PortFolioRaghav-react/static/media/house.c48d619385af7edc7c81.jpeg",
+    "static/media/car.jpg": "/PortFolioRaghav-react/static/media/car.316512935f7758f3c06f.jpg",
+    "static/media/raghavv.jpg": "/PortFolioRaghav-react/static/media/raghavv.95e896cbe49df5e0b477.jpg",
+    "static/media/leaf.png": "/PortFolioRaghav-react/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/CA02PES.pdf": "/PortFolioRaghav-react/static/media/CA02PES.2ad2c2de0e86d383ed4e.pdf",
+    "static/media/about.png": "/PortFolioRaghav-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/food.webp": "/PortFolioRaghav-react/static/media/food.ca2f011c3ea89504855e.webp",
+    "static/media/portfolio.webp": "/PortFolioRaghav-react/static/media/portfolio.d6e31b5953b3e79d91ef.webp",
+    "static/media/book.jpg": "/PortFolioRaghav-react/static/media/book.9346852d3ab801886b2f.jpg",
+    "static/media/home-bg.jpg": "/PortFolioRaghav-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/PortFolioRaghav-react/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/PortFolioRaghav-react/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/PortFolioRaghav-react/index.html",
+    "main.d2748f9d.css.map": "/PortFolioRaghav-react/static/css/main.d2748f9d.css.map",
+    "main.87f412d3.js.map": "/PortFolioRaghav-react/static/js/main.87f412d3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortFolioRaghav-react/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortFolioRaghav-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2748f9d.css",
+    "static/js/main.87f412d3.js"
+  ]
+}
